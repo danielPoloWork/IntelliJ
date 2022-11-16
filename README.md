@@ -1,7 +1,7 @@
 # IntelliJ
 Config files, guides, templates, themes and utilities
 
-- [**D4NP_Dark**](https://github.com/danielPoloWork/IntelliJ/blob/master/D4NP_Dark.jar) is a dark theme for IntelliJ IDEA in combo with Fira Code Font for editor and Roboto font for IDE menu. Color set for:
+- [**D4NP_Dark**](https://github.com/danielPoloWork/IntelliJ/blob/master/D4NP_Dark.jar) is a dark theme for IntelliJ IDEA in combo with [Fira Code](https://github.com/tonsky/FiraCode) Font for editor and [Roboto](https://fonts.google.com/specimen/Roboto) font for IDE menu. Color set for:
   - HTML
   - XML
   - YAML
@@ -23,7 +23,7 @@ Config files, guides, templates, themes and utilities
   - Language Defaults
   - General
   
-- [**D4NP_Light.jar**](https://github.com/danielPoloWork/IntelliJ/blob/master/D4NP_Light.jar) is a light theme for IntelliJ IDEA in combo with Fira Code Font for editor and Roboto font for IDE menu. Colors set for:
+- [**D4NP_Light.jar**](https://github.com/danielPoloWork/IntelliJ/blob/master/D4NP_Light.jar) is a light theme for IntelliJ IDEA in combo with [Fira Code](https://github.com/tonsky/FiraCode) Font for editor and [Roboto](https://fonts.google.com/specimen/Roboto) font for IDE menu. Colors set for:
   - Java
   - HTML
   
