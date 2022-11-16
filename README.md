@@ -1,7 +1,7 @@
 # IntelliJ
 Config files, guides, templates, themes and utilities
 
-- [**D4NP Dark**](https://github.com/danielPoloWork/IntelliJ/blob/master/D4NP%20Dark.jar) is a dark theme for IntelliJ IDEA. Color set for:
+- [**D4NP_Dark**](https://github.com/danielPoloWork/IntelliJ/blob/master/D4NP_Dark.jar) is a dark theme for IntelliJ IDEA. Color set for:
   - HTML
   - XML
   - YAML
