@@ -22,7 +22,7 @@ Config files, guides, templates, themes and utilities
   - User-Defined File Types
   - Language Defaults
   - General
-- [**DanielPoloLight.jar**](https://github.com/danielPoloWork/IntelliJ/blob/master/DanielPoloLight.jar) is a light theme for IntelliJ IDEA. Colors set for:
+- [**D4NP_Light.jar**](https://github.com/danielPoloWork/IntelliJ/blob/master/D4NP_Light.jar) is a light theme for IntelliJ IDEA. Colors set for:
   - Java
   - HTML
 - [**googleStyle.xml**](https://github.com/danielPoloWork/IntelliJ/blob/master/googleStyle.xml) is a google formatting style for IntelliJ IDEA. 
