@@ -1,6 +1,7 @@
 # IntelliJ IDEA
 Config files, guides, templates, themes and utilities
 
+## Themes
 - [**D4NP_Dark**](src/themes/D4NP_Dark.jar) is a dark theme for IntelliJ 
   IDEA in combo with [Fira Code](https://github.com/tonsky/FiraCode) font for editor and 
   [Roboto](https://fonts.google.com/specimen/Roboto) font for IDE menu. Color set for:
@@ -31,9 +32,11 @@ Config files, guides, templates, themes and utilities
   [Roboto](https://fonts.google.com/specimen/Roboto) font for IDE menu. Colors set for:
   - Java
   - HTML
-  
+
+## Styles
 - [**googleStyle.xml**](src/styles/googleStyle.xml) is a google formatting 
   style for IntelliJ IDEA. 
 
-- [**intellijSetTerminalForGitBash.txt**](https://github.com/danielPoloWork/IntelliJ/blob/master/intellijSetTerminalForGitBash.txt) 
+## Guides
+- [**How to set custom terminal?**](src/guides/how-to-set-custom-terminal.md) 
   is a guide for IntelliJ IDEA to configure a custom Terminal or to fix "command not found".
