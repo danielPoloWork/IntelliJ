@@ -22,6 +22,8 @@ Config files, guides, templates, themes and utilities
   - User-Defined File Types
   - Language Defaults
   - General
-- [**DanielPoloLight.jar**](https://github.com/danielPoloWork/IntelliJ/blob/master/DanielPoloLight.jar) is a light theme for IntelliJ IDEA. Colors set for Java and HTML.
+- [**DanielPoloLight.jar**](https://github.com/danielPoloWork/IntelliJ/blob/master/DanielPoloLight.jar) is a light theme for IntelliJ IDEA. Colors set for:
+  - Java
+  - HTML
 - [**googleStyle.xml**](https://github.com/danielPoloWork/IntelliJ/blob/master/googleStyle.xml) is a google formatting style for IntelliJ IDEA. 
 - [**intellijSetTerminalForGitBash.txt**](https://github.com/danielPoloWork/IntelliJ/blob/master/intellijSetTerminalForGitBash.txt) is a guide to set custom terminal on IntelliJ IDEA.
